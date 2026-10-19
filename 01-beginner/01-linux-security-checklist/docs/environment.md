@@ -10,7 +10,7 @@
 - Git 2.53.0
 
 ** Initial Assessment **
-The lab environmetn is ready for the intial security assessment. The operating system and available tools have been identified. However, this information alone does not confirm that the system is securely configured or fully updated.
+The lab environment is ready for the intial security assessment. The operating system and available tools have been identified. However, this information alone does not confirm that the system is securely configured or fully updated.
 
 ** Next Steps **
 - Check for available software updates.
